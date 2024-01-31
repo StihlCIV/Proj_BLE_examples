@@ -1,0 +1,3 @@
+osource "/Users/cvs_macbook4/VS_Projects/Proj_Github/BC2_Prototype/boards/shields/*/Kconfig.defconfig"
+osource "/Users/cvs_macbook4/VS_Projects/Proj_nordic_ble/broadcaster_multiple/boards/shields/*/Kconfig.defconfig"
+osource "/opt/nordic/ncs/v2.4.0/nrf/boards/shields/*/Kconfig.defconfig"

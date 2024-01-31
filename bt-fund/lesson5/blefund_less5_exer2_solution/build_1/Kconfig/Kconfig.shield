@@ -1,0 +1,2 @@
+osource "/Users/cvs_macbook4/Documents/Proj_nordic_ble/bt-fund/lesson5/blefund_less5_exer2_solution/boards/shields/*/Kconfig.shield"
+osource "/opt/nordic/ncs/v2.4.0/nrf/boards/shields/*/Kconfig.shield"
